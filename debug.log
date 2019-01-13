@@ -1,0 +1,25 @@
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Hexo version: \u001b[35m3.2.2\u001b[39m","time":"2017-02-03T12:22:48.160Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Working directory: \u001b[35m~/develop/shawlq_git/hexo_site/\u001b[39m","time":"2017-02-03T12:22:48.163Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Config loaded: \u001b[35m~/develop/shawlq_git/hexo_site/_config.yml\u001b[39m","time":"2017-02-03T12:22:48.249Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-02-03T12:22:48.264Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2017-02-03T12:22:48.266Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-asset-image\u001b[39m","time":"2017-02-03T12:22:48.347Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-02-03T12:22:48.349Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-search\u001b[39m","time":"2017-02-03T12:22:48.352Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-02-03T12:22:48.354Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-02-03T12:22:48.355Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-02-03T12:22:48.356Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-02-03T12:22:48.445Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-02-03T12:22:48.453Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-02-03T12:22:48.455Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge-configs.js\u001b[39m","time":"2017-02-03T12:22:48.456Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/center-quote.js\u001b[39m","time":"2017-02-03T12:22:48.456Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/button.js\u001b[39m","time":"2017-02-03T12:22:48.456Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/full-image.js\u001b[39m","time":"2017-02-03T12:22:48.457Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/group-pictures.js\u001b[39m","time":"2017-02-03T12:22:48.458Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/note.js\u001b[39m","time":"2017-02-03T12:22:48.459Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":30,"msg":"Deploying: \u001b[35mgit\u001b[39m","time":"2017-02-03T12:22:48.461Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":30,"msg":"Clearing .deploy_git folder...","time":"2017-02-03T12:22:48.467Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":30,"msg":"Copying files from public folder...","time":"2017-02-03T12:22:48.518Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":30,"msg":"Deploy done: \u001b[35mgit\u001b[39m","time":"2017-02-03T12:22:59.018Z","v":0}
+{"name":"hexo","hostname":"xiaoqideMacBook-Air.local","pid":14337,"level":20,"msg":"Database saved","time":"2017-02-03T12:22:59.022Z","v":0}
