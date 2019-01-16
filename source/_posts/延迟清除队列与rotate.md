@@ -109,14 +109,12 @@ public:
 * 可以独立为1个管理对象，同时在push频率显著低于 `get -> remove`时具有接近于IterQueue的性能。
 * 但是对上层传入的对象有约束。要求对象的value不能相同，否则存在误删除问题。
 
-
-```sequence
-Thread1 ->> RotateQueue: get obj(value = 0x7fxxxxxx)
-Thread2 ->> RotateQueue: get obj(value = 0x7fxxxxxx)
-Thread1 ->> RotateQueue: remove obj(value = 0x7fxxxxxx)
-Thread1 ->> RotateQueue: push new obj(value = 0x7fxxxxxx)
-Thread2 -->> RotateQueue: remove obj(value = 0x7fxxxxxx)
-Note left of Thread2 : the new pushed obj\nis unexpected removed!
-```
-```flow
+```mermaid
+sequenceDiagram
+Thread1->>RotateQueue: get obj(value = 0x7fxxxxxx)
+Thread2->>RotateQueue: get obj(value = 0x7fxxxxxx)
+Thread1->>RotateQueue: remove obj(value = 0x7fxxxxxx)
+Thread1->>RotateQueue: push new obj(value = 0x7fxxxxxx)
+Thread2-->>RotateQueue: remove obj(value = 0x7fxxxxxx)
+Note left of Thread2 : the new pushed obj is unexpected removed!
 ```
